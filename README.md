@@ -13,10 +13,10 @@ This library offers four different classes:
 * `Stopwatch` is a clock that you can start and pause. You have to pass a clock to the constructor to set the precision. **Do not call the functions of the underlying clock! Only use the member functions of the `Stopwatch`!**
 
 ## Installation
-Just download this repository as .zip file, open it and rename the folder from `ArduinoClock-master` to `ArduinoClock` and place in the libraries directory (On Windows: "Documents\Arduino\libraries", On Linux: "User Folder/Sketchbook").
+Just download this repository as .zip file, open it and rename the folder from `ArduinoClock-master` to `ArduinoClock` and place in the libraries directory (On Windows: "Documents\Arduino\libraries", On Linux: "User Folder/Sketchbook"). [Click here to download this repository.](https://github.com/Loris156/ArduinoClock/archive/master.zip)
 
 ## Contribute
-If you find any bugs or want to request a feature, just create a new issue or contact me under my E-Mail.
+> If you find any bugs or want to request a feature, just create a new issue or contact me under my E-Mail.
 
 ## License
 MIT License
