@@ -1,0 +1,34 @@
+#######################################
+# Syntax Coloring Map for ArduinoClock
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+ClockBase	KEYWORD1
+ArduinoClock	KEYWORD1
+HighResolutionClock	KEYWORD1
+TimeSpan	KEYWORD1
+Stopwatch	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+getElapsedTime	KEYWORD2
+restart	KEYWORD2
+start	KEYWORD2  
+pause	KEYWORD2
+reset	KEYWORD2
+isRunning	KEYWORD2
+switchState	KEYWORD2  
+asMicroseconds	KEYWORD2
+asMilliseconds	KEYWORD2
+asSeconds	KEYWORD2
+asMinutes	KEYWORD2
+asHours	KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
