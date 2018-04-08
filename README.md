@@ -1,5 +1,7 @@
-# ArduinoClock
+# ArduinoClock 
 ### Simple arduino library for measuring elapsed time.
+
+[![BCH compliance](https://bettercodehub.com/edge/badge/Loris156/ArduinoClock?branch=master)](https://bettercodehub.com/)
 
 This library offers four different classes:
 * `ArduinoClock`
